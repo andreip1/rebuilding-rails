@@ -1,0 +1,3 @@
+[submodule "rulers"]
+	path = rulers
+	url = git@github.com:andreip1/rulers.git
