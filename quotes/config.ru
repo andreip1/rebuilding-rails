@@ -1,1 +1,3 @@
-run proc {[200, { 'content-type' => 'text/html' }, ["Hello!"]]}
+require "rulers"
+
+run Rulers::Application.new
